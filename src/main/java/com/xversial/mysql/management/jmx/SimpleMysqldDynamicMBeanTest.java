@@ -39,7 +39,7 @@ import com.xversial.mysql.management.MysqldResourceTestImpl;
 import com.xversial.mysql.management.util.TestUtil;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: SimpleMysqldDynamicMBeanTest.java,v 1.1 2005/02/16 21:46:10
  *          eherman Exp $
  */

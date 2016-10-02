@@ -24,7 +24,7 @@ import java.io.ByteArrayOutputStream;
 import junit.framework.TestCase;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: StreamConnectorTest.java,v 1.1 2005/02/23 01:20:01 eherman Exp $
  */
 public class StreamConnectorTest extends TestCase {

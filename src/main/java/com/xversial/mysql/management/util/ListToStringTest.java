@@ -25,7 +25,7 @@ import java.util.Map;
 import junit.framework.TestCase;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: StrTest.java,v 1.3 2005/12/01 21:45:31 eherman Exp $
  */
 public class ListToStringTest extends TestCase {

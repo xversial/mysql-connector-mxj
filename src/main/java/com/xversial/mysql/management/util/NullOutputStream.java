@@ -24,7 +24,7 @@ import java.io.OutputStream;
  * This class is final simply as a hint to the compiler, it may be un-finalized
  * safely.
  * 
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: NullOutputStream.java,v 1.3 2005/02/25 20:38:39 eherman Exp $
  */
 public final class NullOutputStream extends OutputStream {

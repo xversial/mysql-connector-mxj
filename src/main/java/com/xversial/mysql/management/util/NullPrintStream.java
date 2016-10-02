@@ -24,7 +24,7 @@ import java.io.PrintStream;
  * This class is final simply as a hint to the compiler, it may be un-finalized
  * safely.
  * 
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: NullPrintStream.java,v 1.2 2005/02/17 21:26:47 eherman Exp $
  */
 public final class NullPrintStream extends PrintStream {

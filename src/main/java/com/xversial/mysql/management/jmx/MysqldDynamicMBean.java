@@ -27,7 +27,7 @@ import com.xversial.mysql.management.util.Exceptions;
 /**
  * MySQL DynamicMBean
  * 
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: MysqldDynamicMBean.java,v 1.7 2005/10/25 19:11:16 eherman Exp $
  */
 public final class MysqldDynamicMBean extends SimpleMysqldDynamicMBean {

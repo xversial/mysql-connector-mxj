@@ -22,7 +22,7 @@ package com.xversial.mysql.management.util;
  * This class is final simply as a hint to the compiler, it may be un-finalized
  * safely.
  * 
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: WrappedException.java,v 1.4 2005/08/30 18:20:23 eherman Exp $
  */
 public final class WrappedException extends RuntimeException {

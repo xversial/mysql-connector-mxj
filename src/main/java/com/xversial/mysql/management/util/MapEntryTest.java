@@ -24,7 +24,7 @@ import java.util.Map;
 import junit.framework.TestCase;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: MapEntryTest.java,v 1.2 2005/07/05 21:19:40 eherman Exp $
  */
 public class MapEntryTest extends TestCase {

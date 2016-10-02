@@ -32,7 +32,7 @@ import java.util.List;
  * current thread by calling <code>run</code> directly. May be launched as a
  * separate thread by calling <code>start</code>.
  * 
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: Shell.java,v 1.15 2005/12/01 21:45:31 eherman Exp $
  */
 public interface Shell extends Runnable {

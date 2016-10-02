@@ -25,7 +25,7 @@ import java.sql.SQLException;
 import junit.framework.TestCase;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: ExceptionsTest.java,v 1.8 2005/10/25 19:11:16 eherman Exp $
  */
 public class ExceptionsTest extends TestCase {

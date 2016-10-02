@@ -29,7 +29,7 @@ import java.io.OutputStream;
  * This class is final simply as a hint to the compiler, it may be un-finalized
  * safely.
  * 
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: StreamConnector.java,v 1.6 2005/07/27 23:41:27 eherman Exp $
  */
 public final class StreamConnector extends Thread {

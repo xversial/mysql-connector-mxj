@@ -47,7 +47,7 @@ import com.xversial.mysql.management.util.Str;
  * This class is final simply as a hint to the compiler, it may be un-finalized
  * safely.
  * 
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  */
 public final class ServerLauncherSocketFactory implements SocketFactory {
 

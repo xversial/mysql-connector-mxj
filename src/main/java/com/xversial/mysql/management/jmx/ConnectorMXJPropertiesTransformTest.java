@@ -34,7 +34,7 @@ import com.mysql.jdbc.NonRegisteringDriver;
 import com.xversial.mysql.management.util.TestUtil;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: ConnectorMXJPropertiesTransformTest.java,v 1.1 2005/02/16
  *          21:46:10 eherman Exp $
  */

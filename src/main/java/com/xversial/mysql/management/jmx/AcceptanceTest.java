@@ -32,7 +32,7 @@ import com.xversial.mysql.management.util.TestUtil;
 import com.xversial.mysql.management.util.Threads;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: AcceptanceTest.java,v 1.8 2005/07/05 21:19:40 eherman Exp $
  */
 public class AcceptanceTest extends QuietTestCase {

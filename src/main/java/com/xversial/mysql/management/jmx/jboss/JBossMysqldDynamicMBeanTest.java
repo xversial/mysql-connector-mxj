@@ -32,7 +32,7 @@ import com.xversial.mysql.management.jmx.TestFactory;
 import com.xversial.mysql.management.util.Files;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: JBossMysqldDynamicMBeanTest.java,v 1.1 2005/02/16 21:46:11
  *          eherman Exp $
  */

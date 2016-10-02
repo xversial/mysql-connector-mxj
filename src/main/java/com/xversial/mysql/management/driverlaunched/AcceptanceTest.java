@@ -28,7 +28,7 @@ import com.xversial.mysql.management.util.QuietTestCase;
 import com.xversial.mysql.management.util.TestUtil;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: AcceptanceTest.java,v 1.14 2005/12/02 16:00:50 eherman Exp $
  */
 public class AcceptanceTest extends QuietTestCase {

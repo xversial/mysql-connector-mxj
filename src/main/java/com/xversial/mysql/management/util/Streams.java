@@ -36,7 +36,7 @@ import java.util.jar.JarInputStream;
 /**
  * Stream operation utility methods.
  * 
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: Streams.java,v 1.12 2005/12/01 21:45:31 eherman Exp $
  */
 public class Streams {

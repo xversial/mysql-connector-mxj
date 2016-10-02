@@ -23,7 +23,7 @@ import java.sql.SQLException;
 import junit.framework.TestCase;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: CausedSQLExceptionTest.java,v 1.1 2005/02/16 21:46:10 eherman
  *          Exp $
  */

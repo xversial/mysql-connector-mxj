@@ -34,7 +34,7 @@ import com.xversial.mysql.management.util.Utils;
  * This class is final simply as a hint to the compiler, it may be un-finalized
  * safely.
  * 
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: HelpOptionsParser.java,v 1.22 2005/10/25 19:11:16 eherman Exp $
  */
 final class HelpOptionsParser {

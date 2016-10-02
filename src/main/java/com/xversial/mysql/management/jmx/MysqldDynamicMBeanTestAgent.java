@@ -27,7 +27,7 @@ import javax.management.ObjectName;
 /**
  * This Simple JMX Agent is useful for testing DynamicMBeans.
  * 
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: MysqldDynamicMBeanTestAgent.java,v 1.1 2005/02/16 21:46:10
  *          eherman Exp $
  */

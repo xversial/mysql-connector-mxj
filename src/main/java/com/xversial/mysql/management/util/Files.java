@@ -26,7 +26,7 @@ import java.io.PrintStream;
 import java.io.PrintWriter;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: Files.java,v 1.2 2005/12/01 21:45:31 eherman Exp $
  */
 public class Files {

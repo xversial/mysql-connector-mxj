@@ -31,7 +31,7 @@ import com.xversial.mysql.management.MysqldResourceI;
  * This class is final simply as a hint to the compiler, it may be un-finalized
  * safely.
  * 
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: CommandLineOptionsParser.java,v 1.1 2005/02/17 21:20:45 eherman
  *          Exp $
  */

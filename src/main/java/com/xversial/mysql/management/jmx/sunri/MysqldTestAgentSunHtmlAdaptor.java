@@ -37,7 +37,7 @@ import com.sun.jdmk.comm.HtmlAdaptorServer;
  * This Agent has exactly two beans: 1) a MysqldDynamicMBean 2) a Broswer
  * Interface for management
  * 
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: MysqldTestAgentSunHtmlAdaptor.java,v 1.1 2005/02/16 21:46:11
  *          eherman Exp $
  */

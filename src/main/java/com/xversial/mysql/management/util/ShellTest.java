@@ -23,7 +23,7 @@ import java.io.File;
 import java.io.InputStream;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: ShellTest.java,v 1.12 2005/08/30 18:20:23 eherman Exp $
  */
 public class ShellTest extends QuietTestCase {

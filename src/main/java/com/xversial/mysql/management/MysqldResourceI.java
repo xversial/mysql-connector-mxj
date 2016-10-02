@@ -22,7 +22,7 @@ import java.io.File;
 import java.util.Map;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: MysqldResourceI.java,v 1.20 2005/07/27 23:41:27 eherman Exp $
  */
 public interface MysqldResourceI {

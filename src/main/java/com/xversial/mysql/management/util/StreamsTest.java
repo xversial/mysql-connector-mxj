@@ -25,7 +25,7 @@ import java.io.InputStream;
 import junit.framework.TestCase;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: StreamsTest.java,v 1.2 2005/07/21 03:08:02 eherman Exp $
  */
 public class StreamsTest extends TestCase {

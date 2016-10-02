@@ -24,7 +24,7 @@ import junit.framework.TestSuite;
 import com.xversial.mysql.management.util.Files;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: AllTestsSuite.java,v 1.6 2005/07/01 02:06:55 eherman Exp $
  */
 public class AllTestsSuite {

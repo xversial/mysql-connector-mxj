@@ -26,7 +26,7 @@ import java.util.Map;
  * This class is final simply as a hint to the compiler, it may be un-finalized
  * safely.
  * 
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: MapEntry.java,v 1.5 2005/09/22 20:41:36 eherman Exp $
  */
 public final class MapEntry implements Map.Entry {

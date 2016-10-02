@@ -22,7 +22,7 @@ package com.xversial.mysql.management.util;
  * This class is final simply as a hint to the compiler, it may be un-finalized
  * safely.
  * 
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  */
 public final class Equals {
     public boolean nullSafe(Object left, Object right) {

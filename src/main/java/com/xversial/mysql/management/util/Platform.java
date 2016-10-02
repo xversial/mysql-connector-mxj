@@ -25,7 +25,7 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: Platform.java,v 1.7 2005/07/27 23:41:27 eherman Exp $
  */
 public final class Platform {

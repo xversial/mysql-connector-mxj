@@ -30,7 +30,7 @@ import com.xversial.mysql.management.util.Utils;
 import junit.framework.TestCase;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: HelpOptionsParserTest.java,v 1.1 2005/02/16 21:46:11 eherman
  *          Exp $
  */

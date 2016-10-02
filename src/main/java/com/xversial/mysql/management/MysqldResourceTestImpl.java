@@ -28,7 +28,7 @@ import com.xversial.mysql.management.util.Files;
 import com.xversial.mysql.management.util.ListToString;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: MysqldResourceTestImpl.java,v 1.4 2005/04/13 19:53:24 eherman
  *          Exp $
  */

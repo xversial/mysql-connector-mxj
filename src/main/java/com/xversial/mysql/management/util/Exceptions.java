@@ -22,7 +22,7 @@ import java.io.PrintStream;
 import java.sql.SQLException;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: Exceptions.java,v 1.9 2005/10/25 19:11:16 eherman Exp $
  */
 public class Exceptions {

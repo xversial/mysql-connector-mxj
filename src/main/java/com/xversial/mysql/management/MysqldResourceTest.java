@@ -39,7 +39,7 @@ import com.xversial.mysql.management.util.Threads;
 import com.xversial.mysql.management.util.Utils;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: MysqldResourceTest.java,v 1.36 2005/12/01 21:45:31 eherman Exp $
  */
 public class MysqldResourceTest extends QuietTestCase {

@@ -49,7 +49,7 @@ import com.xversial.mysql.management.util.Utils;
  * This class is final simply as a hint to the compiler, it may be un-finalized
  * safely.
  * 
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: MysqldResource.java,v 1.66 2005/12/05 16:39:54 eherman Exp $
  */
 public final class MysqldResource implements MysqldResourceI {

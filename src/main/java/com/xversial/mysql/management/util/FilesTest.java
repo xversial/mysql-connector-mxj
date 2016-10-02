@@ -27,7 +27,7 @@ import java.io.PrintWriter;
 import junit.framework.TestCase;
 
 /**
- * @author Eric Herman <eric@mysql.com>
+ * @author Eric Herman
  * @version $Id: FilesTest.java,v 1.1 2005/08/30 18:20:23 eherman Exp $
  */
 public class FilesTest extends TestCase {
